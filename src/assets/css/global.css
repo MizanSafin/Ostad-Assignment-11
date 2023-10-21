@@ -28,7 +28,11 @@ div {
 h2 {
   margin-bottom: 30px;
 }
-
+p {
+  margin: 0 auto;
+  width: 90%;
+  max-width: 450px;
+}
 ul {
   list-style: none;
   display: flex;
